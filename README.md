@@ -1,4 +1,4 @@
-<img width=190 align="right" src="https://avatars.githubusercontent.com/u/8463332?s=400&u=35632710cf9ef5708f5a732e64bbd4e2b7efdd40&v=4" />
+<img width=190 align="right" src="http://is.am/4fte" />
 
 ### Hi there 👋, My name is Raül
 
@@ -23,6 +23,7 @@ const rawl = {
       "Enjoying",
       "Travelling",
       "Friends",
+      "Mentoring",
       "Being a good Dad"
       ],
 }
