@@ -6,8 +6,8 @@
 
 I love code. I love teaching code. I love play with code. I love code new code.
 
-- 👨🏻‍💻 Fullstack JavaScript Developer
-- 👶🏼 Fulltime Fullstack Daddy
+- 👨🏻‍💻  Fullstack JavaScript Developer
+- 👶🏼  Fulltime Fullstack Daddy
 
 ## About me...
 ```js
