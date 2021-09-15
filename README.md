@@ -1,4 +1,4 @@
-<img width=190 align="right" src="http://is.am/4fte" />
+<img width=190 align="right" src="https://cdn.iconscout.com/icon/free/png-512/code-280-460136.png" />
 
 ### Hi there 👋, My name is Raül
 
