@@ -2,7 +2,7 @@
 
 ### Hi there 👋, My name is Raül
 
-### I am a Seniro Software Engineer
+### I am a Senior Software Engineer
 
 I love code. I love teaching code. I love play with code. I love code new code.
 
